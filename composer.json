@@ -2,7 +2,7 @@
     "name": "phpkit/callback",
     "description": "函数回调处理",
     "keywords": [
-        "weixin"
+        "php callback"
     ],
     "homepage": "http://www.phpkit.me/",
     "license": "Apache-2.0",
